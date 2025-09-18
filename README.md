@@ -20,18 +20,6 @@ Not intended for production or commercial use.
 
 ---
 
-## 📂 Repository Structure
-webots-tiago-controller/
-│── controllers/
-│ └── tiago_robot_controller/
-│ └── tiago_robot_controller.py # main controller code
-│── worlds/
-│ └── kitchen.wbt # Webots world file
-│── requirements.txt # Python dependencies
-│── README.md # project documentation
-
----
-
 ## 🔧 Requirements
 - Webots R2023 or later  
 - Python 3.8+  
