@@ -18,6 +18,10 @@ Not intended for production or commercial use.
 - Configuration space generation using convolution (with `scipy.signal`).
 - Visualization of the c-space with Matplotlib.
 
+
+https://github.com/user-attachments/assets/fa984f75-a7da-4a6d-9a6c-f76c1e59377f
+
+
 ---
 
 ## 🔧 Requirements
